@@ -14,7 +14,7 @@ const pdata=[
         category:'Women',
         Total_Item:180,
         Sold:120,
-        Available:170-150
+        Available:180-120
     },
     {
         category:'Kids',
