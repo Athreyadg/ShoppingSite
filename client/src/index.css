@@ -18,7 +18,7 @@ img {
 .admin{
   height: 750px;
   width: 100%;
-  background-image: url('C:\Users\atharva_kulkarni\Downloads\ecommerce\ecommerce\client\src\shopping.jpg');
+  background-image: url('./images/shopping.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top right;
