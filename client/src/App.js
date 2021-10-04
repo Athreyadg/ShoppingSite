@@ -28,15 +28,15 @@ import Update from "./components/Update";
 import Delete from "./components/Delete";
 
 import Statistics from "./components/Statistics";
-import Electronics from "./screens/categories/Electronics";
-import Fruits from "./screens/categories/Fruits";
-import HomeCare from "./screens/categories/HomeCare";
-import Kids from "./screens/categories/Kids";
-import Men from "./screens/categories/Men";
-import PackagedFood from "./screens/categories/PackagedFood";
-import Eggs from "./screens/categories/Eggs";
-import Beverages from "./screens/categories/Beverages";
-import SkinCare from "./screens/categories/SkinCare";
+import Electronics from "./screens/categories/electronics";
+import Fruits from "./screens/categories/fruits";
+import HomeCare from "./screens/categories/homeCare";
+import Kids from "./screens/categories/kids";
+import Men from "./screens/categories/men";
+import PackagedFood from "./screens/categories/packagedfood";
+import Eggs from "./screens/categories/eggs";
+import Beverages from "./screens/categories/beverages";
+import SkinCare from "./screens/categories/skinCare";
 import ForgotPassword from "./components/forgotPassword";
 import View from "./components/View";
 function App() {
